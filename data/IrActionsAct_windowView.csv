@@ -1,0 +1,3 @@
+ID,sequence,view_mode,view_id,act_window_id
+stock_landed_cost_type_action1,,tree,stock_landed_cost_tree_view,stock_landed_cost_type_action
+stock_landed_cost_type_action2,,form,view_stock_landed_cost_type_form,stock_landed_cost_type_action

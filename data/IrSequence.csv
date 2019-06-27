@@ -1,0 +1,2 @@
+ID,name,code,prefix,padding
+seq_stock_landed_costs,Stock Landed Costs,stock.landed.cost,LC/%(year)s/,4
